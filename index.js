@@ -1,6 +1,6 @@
 var recipes = {spicybeans:"red beans"};
 
-function updateObjectWithKeyAndValue (recipes, key, value) {
-  object.assign({}, recipes, {key : "value"});
+function updateObjectWithKeyAndValue (obj, key, value) {
+  object.assign({}, obj, {key : "value"});
   return obj;
 }
