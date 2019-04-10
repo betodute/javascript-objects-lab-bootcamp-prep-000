@@ -1,1 +1,1 @@
-var recipes = {x:y};
+var recipes = {x:"y"};
