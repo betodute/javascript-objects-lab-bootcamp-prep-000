@@ -1,4 +1,4 @@
-var recipes = {spi:"red beans"};
+var recipes = {};
 
 function updateObjectWithKeyAndValue (obj, key, value) {
   object.assign({}, obj, {key : "value"});
