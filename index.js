@@ -1,1 +1,1 @@
-var recipes = {x:"y"};
+var recipes = {spicybeans:"red beans"};
